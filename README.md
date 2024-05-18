@@ -6,7 +6,7 @@ Energy Management is emerging with the rise of Smart Buildings and Smart Cities.
 
 Energy Disaggregation is essential to breakdown the Main power being consumed into submeters. Different models were used to perform this on the Refit Dataset including: Combinatorial Optimization, Hart85, and Fitting Hidden Markov Models. Out of all the models, Combinatorial showed the best output with 1-3 differences between the predicted and actual value. The Computer Appliance exhibited a 2.16 RMSE using this model as well. 
 
-Long Short-Term Memory is used to predict the succeeding values based on the given data. Three different models were also used. These models are Vanilla, Bidirectional, and Stacked LSTM. Out of all the models, Bidirectional LSTM exhibited the best output with 98.72% accuracy and 19.96 MAE.
+Long Short-Term Memory is used to predict the succeeding values based on the given data. Three different models were also used. These models are Vanilla, Bidirectional, and Stacked LSTM. Out of all the models, Bidirectional LSTM exhibited the best output with 99.12% accuracy and 21.30 MAE.
 
 
 # Dataset
