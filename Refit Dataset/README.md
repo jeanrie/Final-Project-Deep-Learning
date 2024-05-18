@@ -6,4 +6,5 @@ This Folder contains the cleaned dataset that was used by the authors. House 17 
 
 # Dataset
 We use the REFIT Electrical Load Measurements dataset. You can download it [here](http://redd.csail.mit.edu/)
+
 The Energy Disaggregation utilized Cleaned data of House 17.
