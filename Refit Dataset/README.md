@@ -9,4 +9,4 @@ We use the REFIT Electrical Load Measurements dataset. You can download it [here
 The Energy Disaggregation utilized Cleaned data of House 17 and 18.
 
 ### LSTM Dataset
-This Folder contains the cleaned dataset that was used by the authors. House 17 and House 18 which was renamed to House 1 and House 2.
+This Folder contains the cleaned dataset that was used by the authors. House 17 and House 18 was renamed to House 1 and House 2.
