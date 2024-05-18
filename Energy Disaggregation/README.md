@@ -12,6 +12,7 @@ We use the REFIT Electrical Load Measurements dataset. You can download it [here
 Using only a measurement from the whole-house power meter, Non-Intrusive Load Monitoring (NILM) is the method of assessing the energy used by specific appliances. It disaggregates main power meter into submeters. Effectively assessing the power held by each appliances.
 
 NILMTK makes Energy Disaggregation easier and faster!🥳
+
 You may install NILMTK in your devices using this [guide]([http://redd.csail.mit.edu/](https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/install_user.md))
 
 ## RESULTS
