@@ -13,7 +13,7 @@ Using only a measurement from the whole-house power meter, Non-Intrusive Load Mo
 
 NILMTK makes Energy Disaggregation easier and faster!🥳
 
-##RESULTS
+## RESULTS
 Using three models, Hart85, Combinatorial Optimization, and Fitting Hidden Markov Models, Combinatorial Optimization (CO) performed the best. It showed better handling of aggregated data into disaggregating them. It also holds record for the lowest RMSE among the three.
 
 ## Connect with Us 📲
