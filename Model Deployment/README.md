@@ -10,6 +10,6 @@ This project aims to predict the energy consumption of household appliances usin
 ## Models
 The following LSTM models are used for energy consumption prediction:
 
-Vanilla LSTM: A simple LSTM model with a single layer.
-Stacked LSTM: An LSTM model with multiple layers to capture more complex patterns.
-Bidirectional LSTM: An LSTM model that processes data in both forward and backward directions to capture context from both past and future states.
+- **Vanilla LSTM:** A simple LSTM model with a single layer.
+- **Stacked LSTM:** An LSTM model with multiple layers to capture more complex patterns.
+- **Bidirectional LSTM:** An LSTM model that processes data in both forward and backward directions to capture context from both past and future states.
