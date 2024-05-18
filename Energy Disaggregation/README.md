@@ -8,10 +8,13 @@
 # Dataset
 We use the REFIT Electrical Load Measurements dataset. You can download it [here](http://redd.csail.mit.edu/)
 
-## Tech Toolbox 🛠️
+## NILMTK
+Using only a measurement from the whole-house power meter, Non-Intrusive Load Monitoring (NILM) is the method of assessing the energy used by specific appliances. It disaggregates main power meter into submeters. Effectively assessing the power held by each appliances.
 
-- 🖥️ Language: Python
-- 📊 Frameworks: Pandas, Numpy, TensorFlow, Keras, NILMTK
+NILMTK makes Energy Disaggregation easier and faster!🥳
+
+##RESULTS
+Using three models, Hart85, Combinatorial Optimization, and Fitting Hidden Markov Models, Combinatorial Optimization (CO) performed the best. It showed better handling of aggregated data into disaggregating them. It also holds record for the lowest RMSE among the three.
 
 ## Connect with Us 📲
 
