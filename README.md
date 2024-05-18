@@ -12,8 +12,12 @@ Long Short-Term Memory is used to predict the succeeding values based on the giv
 # Dataset
 We use the REFIT Electrical Load Measurements dataset. You can download it [here](http://redd.csail.mit.edu/)
 
-## Tech Toolbox 🛠️
+## Resources
 
+- 📝 [Documentation](https://docs.google.com/document/d/1e4FqXgJTkmWHHPit0uLjlXsDWBhsTcFJLHS-gIApYOE/edit?usp=sharing) 
+- 📱 [Model Deployment](https://drive.google.com/file/d/1gpa-ZKc8wMn9QFrCWCz7U9q3ZL5mj7MX/view?usp=sharing) 
+
+## Tech Toolbox 🛠️
 
 - 🖥️ Language: Python
 - 📊 Frameworks: Pandas, Numpy, TensorFlow, Sci-kit Learn, Keras, Streamlit
